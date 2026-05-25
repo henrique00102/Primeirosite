@@ -2,7 +2,13 @@ body{
     background-color: black;
 }
     
-h1,h2,p{
+h1,h2{
     color:yellow;
     text-align: center;
+    
+}
+
+p{
+    text-align: left;
+    color: yellow;
 }
