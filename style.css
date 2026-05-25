@@ -1,5 +1,8 @@
-h1,h2{
-    color:yellow;
-    background-color:black
-    
+body{
+    background-color: black;
+
+}
+h1,h2,p{
+    color:yellow
+
 }
